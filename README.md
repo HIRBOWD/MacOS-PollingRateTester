@@ -22,6 +22,9 @@ HID-based modes can provide more device-oriented input data, while CGEventTap an
 
 **Note:** Observed event rate does not necessarily equal the mouse's verified hardware polling rate. IPS is an estimate whose accuracy depends on the available movement data and CPI calibration.
 
+every online polling rate browser base tester use appkit and its not accurate 
+Most accurate one is the native HID
+
 ## Download
 
 Download the latest version from [GitHub Releases](https://github.com/HIRBOWD/PollingRateTester/releases).
