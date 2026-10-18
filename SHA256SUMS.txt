@@ -1,0 +1,3 @@
+90dbe33463607bd7deae9c027cd0db1242b1ba1f640737ca1ce7547b70893956  PollingRateTester-v1.0.0.dmg
+42ec1a95ed95710a309871a048afad76458bfc34ef316114e756c604ca070bd9  PollingRateTester-v1.0.0-macOS.zip
+49b47b1f524103b1510a82f45ca22608ad868433f6740fa76e7094b9e79d809a  pollingrate-tester-cli-v1.0.0-macOS.tar.gz
